@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "a small jquery plugin stepping through input textfield",
   "main": "numberstepper.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:hamedb89/numberstepper.js.git"
@@ -21,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/hamedb89/numberstepper.js/issues"
   },
-  "homepage": "https://github.com/hamedb89/numberstepper.js"
+  "homepage": "https://github.com/hamedb89/numberstepper.js",
+  "dependencies": {
+    "jquery": "^2.1.3"
+  },
+  "devDependencies": {
+  }
 }
