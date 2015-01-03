@@ -1,7 +1,5 @@
 var jQuery = require('jquery')
 
-console.log(jQuery)
-
 +function($){
 	'use strict'
 
