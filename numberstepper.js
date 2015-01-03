@@ -1,3 +1,5 @@
+var jquery = require('jquery')
+
 +function($){
 	'use strict'
 
