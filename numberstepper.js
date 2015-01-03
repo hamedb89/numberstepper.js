@@ -1,4 +1,4 @@
-var jquery = require('jquery')
+var jQuery = require('jquery')
 
 +function($){
 	'use strict'
