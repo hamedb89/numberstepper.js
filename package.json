@@ -25,7 +25,8 @@
   },
   "browserify-shim": {
     "numberstepper": {
-      "depends": "jquery"
+      "depends": "jquery",
+      "exports": ""
     }
   },
   "browserify": {

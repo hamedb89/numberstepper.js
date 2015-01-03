@@ -1,4 +1,4 @@
-var jQuery = require('jquery')
+var jQuery = require('jquery');
 
 +function($){
 	'use strict'
@@ -94,4 +94,4 @@ var jQuery = require('jquery')
 			Plugin.call($(this), $(this).data())
 		})
 	})
-}(jQuery)
+}(jQuery);
